@@ -5,11 +5,11 @@
 - 🤔 Será que já posso trabalhar? Força de vontade não falta ...
 - 😄 Carpe Diem!
 
+<br>
  <div>
   <a href="https://github.com/Raylla-Silva12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raylla-Silva12&show_icons=true&theme=tokyonight&bg_color=000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylla-Silva12&layout=compact&langs_count=7&theme=tokyonight&bg_color=000"/><br>
-  <img align="right" height="140" width="130" alt="Raylla" src="https://cdn.discordapp.com/attachments/728072210430034002/871513746038734878/icon.png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylla-Silva12&layout=compact&langs_count=7&theme=tokyonight&bg_color=000"/>  
 </div>
   
 <div style="display: inline_block"><br>
@@ -26,3 +26,7 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:raylla.l.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raylla-silva-50554220b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/Raylla-Silva12/Raylla-Silva12/blob/output/github-contribution-grid-snake.svg)
+
+</div>
