@@ -2,22 +2,21 @@
 
 - 🔭 Constantemente em busca de novos conhecimentos ...
 - 🌱 Sempre amadurencendo com novas descobertas ...
-- 🤔 Será que já posso trabalhar? Força de vontade não falta ...
 - 😄 Carpe Diem!
 
 <br>
  <div>
   <a href="https://github.com/Raylla-Silva12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raylla-Silva12&show_icons=true&theme=tokyonight&bg_color=000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylla-Silva12&layout=compact&langs_count=7&theme=tokyonight&bg_color=000"/>  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raylla-Silva12&show_icons=true&theme=tokyonight&bg_color=000&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raylla-Silva12&layout=compact&langs_count=7&theme=tokyonight&bg_color=000"/>  
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-PHP" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ray-PHP" height="60" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ray-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
  
  ##
