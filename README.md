@@ -2,7 +2,8 @@
 <h1 align="center">Olá 👋, me chamo Raylla Silva</h1>
 <h3 align="center">Desenvolvedora e apaixonada por tecnologia</h3>
 
-- 🌱 Atualmente estou aprendendendo ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🌱 Atualmente estou aprendendendo ![PHP](https://img.shields.io/badge/PHP-363B96?style=for-the-badge&logo=php&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
